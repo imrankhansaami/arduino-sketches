@@ -14,3 +14,8 @@ build/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# Libraries installed via the Library Manager / arduino-cli.
+# Dependencies are documented in the READMEs instead of vendored here.
+libraries/Servo/
+libraries/LiquidCrystal_I2C/
